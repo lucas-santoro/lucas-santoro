@@ -42,21 +42,26 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30"><tspan class="keyColor">string</tspan> <tspan class="valueColor">name</tspan> <tspan class="keyColor">=</tspan> <tspan class="addColor">"lucas santoro"</tspan>;</tspan>
 <tspan x="370" y="50">————————————————————————————</tspan>
+  
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Ubuntu Server, iOS</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 10 months, 10 days</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Federal University of Mato Grosso do Sul</tspan><tspan class="commentColor"> #UFMS</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Information technology</tspan><tspan class="commentColor"> #IT</tspan>
 <tspan x="370" y="150" class="keyColor">Running task</tspan>: <tspan class="valueColor">C++ Developer Intern at DeepSeedSolutions™</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, C++, JavaScript, C#</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Portuguese, Spanish</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Engines-Frameworks</tspan>: <tspan class="valueColor">Unreal Engine, Qt, Unity</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Development, Minecraft plugins</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Server Hosting, Custom PC Builds</tspan>
-<tspan x="370" y="310" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Outside</tspan>: <tspan class="valueColor">Workouts, Animal Voluteering, Music</tspan>
+  
+<tspan x="370" y="190" class="keyColor">Coding</tspan>.<tspan class="keyColor">Skills</tspan>: <tspan class="valueColor">C++, C#, JavaScript, Java, Python</tspan>
+<tspan x="370" y="250" class="keyColor">Technologies</tspan>.<tspan class="keyColor">Used</tspan>: <tspan class="valueColor">React, Docker, MySQL, Django</tspan>
+<tspan x="370" y="230" class="keyColor">Engines</tspan>.<tspan class="keyColor">Frameworks</tspan>: <tspan class="valueColor">Unreal, Unity, Qt</tspan>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Spoken</tspan>: <tspan class="valueColor">English, Portuguese, Spanish</tspan>
+
+<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Game Dev, 3D Rendering, Ethical Hacking</tspan>
+<tspan x="370" y="310" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Other</tspan>: <tspan class="valueColor">Gym, Music, Football, Drumming</tspan>
+  
 <tspan x="370" y="350" class="keyColor">Contact</tspan>:
 <tspan x="370" y="370">——————</tspan>
 <tspan x="370" y="390" class="keyColor">Email</tspan>: <tspan class="valueColor">contact@lucassantoro.tech</tspan>
 <tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">lucas-santoro</tspan>
+  
 <tspan x="370" y="450" class="keyColor">Location</tspan>: 
 <tspan x="370" y="470">———————</tspan>
 <tspan x="370" y="490" class="keyColor">Country</tspan>: <tspan class="valueColor">Brazil</tspan>
