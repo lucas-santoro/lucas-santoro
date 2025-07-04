@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years #12/16/2003</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Federal University of Mato Grosso do Sul</tspan><tspan class="commentColor"> #UFMS</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Information technology</tspan><tspan class="commentColor"> #IT</tspan>
-<tspan x="370" y="150" class="keyColor">Running task</tspan>: <tspan class="valueColor">C++ Developer Intern at DeepSeedSolutions™</tspan>
+<tspan x="370" y="150" class="keyColor">Running task</tspan>: <tspan class="valueColor">Software Developer at DeepSeedSolutions™</tspan>
   
 <tspan x="370" y="190" class="keyColor">Coding</tspan>.<tspan class="keyColor">Skills</tspan>: <tspan class="valueColor">C++, C#, JavaScript, Java, Python</tspan>
 <tspan x="370" y="250" class="keyColor">Technologies</tspan>.<tspan class="keyColor">Used</tspan>: <tspan class="valueColor">React, Docker, MySQL, Django</tspan>
